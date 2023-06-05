@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flame/components.dart';
-import 'package:flutter_game/main.dart';
+import 'package:flutter_game/ember_quest.dart';
 
 class EmberPlayer extends SpriteAnimationComponent
     with HasGameRef<EmberQuestGame> {
